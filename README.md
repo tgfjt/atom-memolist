@@ -1,5 +1,25 @@
 # atom-memolist package
 
-A short description of your package.
+simply memo on atom editor.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Link
++ [memolist.vim](https://github.com/glidenote/memolist.vim)
+
+## Note
+* You can **only search** memolist still.
+* the feauture of new memo is not ready yet.
+
+## Setting
+
+`ctrl + shift + p` and `config`
+
+or edit `~/.atom/config.cson`
+
+```cson
+# others...
+'atom-memolist':
+  'memo_dir_path': '/Users/tgfjt/memo'
+```
+
+## Licence
+[MIT](https://github.com/tgfjt/atom-memolist/blob/master/LICENSE.md)
