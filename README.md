@@ -1,13 +1,18 @@
-# atom-memolist package
+# atom-memolist
 
-simply memo on atom editor.
+grep simply memo on atom editor.
 
-## Link
-+ [memolist.vim](https://github.com/glidenote/memolist.vim)
+:satisfied: I use for vim with [glidenote/memolist.vim](https://github.com/glidenote/memolist.vim)
+
+## Usage
+
+* for grep `ctrl+alt+m` and enter `keyword`
 
 ## Note
-* You can **only search** memolist still.
-* the feauture of new memo is not ready yet.
+* :astonished: for create new memolist with: [atom-memolist-new](https://github.com/tgfjt/atom-memolist-new)
+
+## Link
+for Sublime Text: [Sublime-memolist](https://github.com/tgfjt/Sublime-memolist)
 
 ## Setting
 
