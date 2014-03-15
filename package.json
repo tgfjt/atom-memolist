@@ -1,0 +1,18 @@
+{
+  "name": "atom-memolist",
+  "main": "./lib/atom-memolist",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "repository": "https://github.com/tgfjt/atom-memolist",
+  "bugs": {
+    "url": "https://github.com/tgfjt/atom-memolist/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "fs-plus": "~2.0.4",
+    "moment": "~2.5.1"
+  }
+}
