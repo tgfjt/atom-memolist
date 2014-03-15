@@ -1,8 +1,8 @@
 {
   "name": "atom-memolist",
   "main": "./lib/atom-memolist",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "simply memo on atom editor.",
   "repository": "https://github.com/tgfjt/atom-memolist",
   "bugs": {
     "url": "https://github.com/tgfjt/atom-memolist/issues"
@@ -12,7 +12,6 @@
     "atom": ">0.50.0"
   },
   "dependencies": {
-    "fs-plus": "~2.0.4",
-    "moment": "~2.5.1"
+    "fs-plus": "~2.0.4"
   }
 }
