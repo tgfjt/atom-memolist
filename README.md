@@ -9,7 +9,8 @@ show files of simply memo on atom editor.
 * show lists of memos `ctrl+alt+m` and enter `keyword` to grep title.
 
 ## Note
-* :astonished: for create new memolist with: [atom-memolist-new](https://github.com/tgfjt/atom-memolist-new)
+* :astonished: for create new memo with: [atom-memolist-new](https://github.com/tgfjt/atom-memolist-new)
+* :astonished: for grep memo with: [atom-memolist-grep](https://github.com/tgfjt/atom-memolist-grep)
 
 ## Link
 for Sublime Text: [Sublime-memolist](https://github.com/tgfjt/Sublime-memolist)
