@@ -1,12 +1,12 @@
 # atom-memolist
 
-grep simply memo on atom editor.
+show files of simply memo on atom editor.
 
 :satisfied: I use for vim with [glidenote/memolist.vim](https://github.com/glidenote/memolist.vim)
 
 ## Usage
 
-* for grep `ctrl+alt+m` and enter `keyword`
+* show lists of memos `ctrl+alt+m` and enter `keyword` to grep title.
 
 ## Note
 * :astonished: for create new memolist with: [atom-memolist-new](https://github.com/tgfjt/atom-memolist-new)
