@@ -4,7 +4,8 @@ module.exports =
   atomMemolistShow: null
 
   activate: ->
-    atom.workspaceView.command 'atom-memolist:toggle', => @show()
+    atom.commands.add "atom-workspace",
+      'atom-memolist:toggle', => @show()
 
   show: ->
     @atomMemolistShow = new AtomMemolistShow

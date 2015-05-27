@@ -1,4 +1,4 @@
-{SelectListView} = require 'atom'
+{SelectListView} = require 'atom-space-pen-views'
 AtomMemolistFiles = require './atom-memolist-files'
 
 module.exports =
@@ -17,4 +17,4 @@ class AtomMemolistShow extends SelectListView
 
   confirmed: (item) ->
     console.log("#{@settings.memo_dir_path + '/' + item} is found")
-    atom.workspaceView.open @settings.memo_dir_path + '/' + item
+    atom.workspace.open @settings.memo_dir_path + '/' + item
