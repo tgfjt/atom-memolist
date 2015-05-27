@@ -9,7 +9,7 @@ class AtomMemolistShow extends SelectListView
     lists = AtomMemolistFiles(@settings.memo_dir_path)
     @addClass('overlay from-top')
     @setItems(lists)
-    atom.workspaceView.append(this)
+    atom.workspace.addTopPanel(item: this)
     @focusFilterEditor()
 
   viewForItem: (item) ->
