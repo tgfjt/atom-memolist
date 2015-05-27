@@ -1,7 +1,7 @@
 {
   "name": "atom-memolist",
   "main": "./lib/atom-memolist",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "simply memo on atom editor.",
   "repository": "https://github.com/tgfjt/atom-memolist",
   "bugs": {
