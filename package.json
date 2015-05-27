@@ -12,6 +12,7 @@
     "atom": ">0.50.0"
   },
   "dependencies": {
-    "fs-plus": "~2.0.4"
+    "atom-space-pen-views": "^2.0.5",
+    "fs-plus": "^2.8.1"
   }
 }
